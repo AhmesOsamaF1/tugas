@@ -30,6 +30,6 @@ int main()
        cout<<endl;
    }
    
-    cout<<"\ndevelop @mahendrarendi";
+    cout<<"\ndevelop @Osama";
     return 0;
 }
